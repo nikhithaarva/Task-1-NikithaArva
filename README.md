@@ -55,4 +55,4 @@ Learning Outcomes
 
 Author
 
-Nikhitha Arva
+Nikitha Arva
